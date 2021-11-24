@@ -12,12 +12,12 @@ class Header extends Component {
       <nav>
         <ul>
           <li>
-          <Link className="link" to="/translator/">
+          <Link className="link" to="/search">
                 TRANSLATOR
               </Link>
           </li>
           <li>
-          <Link className="link" to="/download">
+          <Link className="link" to="/translator/">
                 UPLOAD BASE
               </Link>
           </li>

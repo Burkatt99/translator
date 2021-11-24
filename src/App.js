@@ -11,8 +11,8 @@ function App() {
       <Router>
         <Layout>
           <Routes>
-            <Route exact path="/download" element={<Download/>}/>
-            <Route path="/translator/" element={<FindWords/>}/>
+            <Route exact path="/translator/" element={<Download/>}/>
+            <Route path="/search" element={<FindWords/>}/>
           </Routes>
         </Layout>
       </Router>
