@@ -12,7 +12,7 @@ function App() {
         <Layout>
           <Routes>
             <Route exact path="/download" element={<Download/>}/>
-            <Route path="/translator" element={<FindWords/>}/>
+            <Route path="/translator/" element={<FindWords/>}/>
           </Routes>
         </Layout>
       </Router>

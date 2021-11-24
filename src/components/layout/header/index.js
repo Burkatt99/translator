@@ -12,7 +12,7 @@ class Header extends Component {
       <nav>
         <ul>
           <li>
-          <Link className="link" to="/translator">
+          <Link className="link" to="/translator/">
                 TRANSLATOR
               </Link>
           </li>
